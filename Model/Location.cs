@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model
 {
+    // This class defines the locations in the game that the player can visit.
     public class Location
     {
         public int ID { get; set; }

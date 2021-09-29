@@ -19,15 +19,15 @@ Using the Executable:
   5. Windows might scream about the executable being unsafe since it's from an unknown publisher. If you dont trust 
   the executable you can try running the game through visual studio.
 Using Visual Studio:
-  a. If you don't have Visual Studio installed you can follow this tutorial (https://www.guru99.com/download-install-visual-studio.html)
+  1. If you don't have Visual Studio installed you can follow this tutorial (https://www.guru99.com/download-install-visual-studio.html)
   and make sure you have the .Net desktop development workload installed or you won't be able to run the program.
-  b. On the repositories main page (https://github.com/Savaesthetic/CSC372_Project1_TextGame), 
+  2. On the repositories main page (https://github.com/Savaesthetic/CSC372_Project1_TextGame), 
   you should see a green drop down menu with the label Code. Click it.
-  c. Download the ZIP.
-  d. Open the Zip, navigate into the CSC372_Project1_TextGame-master folder, extract all of the files and folders into a folder 
+  3. Download the ZIP.
+  4. Open the Zip, navigate into the CSC372_Project1_TextGame-master folder, extract all of the files and folders into a folder 
   wherever you want. It's easy to just put it on the desktop.
-  e. Open Visual Studio and navigate to the File dropdown in the top left corner. Hover over it and go to Open->Project/Solution.
-  f. Navigate to where you extracted the zipped file, enter the folder and select the CSC372_Project1.sln.
-  g. The solution should be built using the files in the folder so you should be able to run the program by hitting the start
+  5. Open Visual Studio and navigate to the File dropdown in the top left corner. Hover over it and go to Open->Project/Solution.
+  6. Navigate to where you extracted the zipped file, enter the folder and select the CSC372_Project1.sln.
+  7. The solution should be built using the files in the folder so you should be able to run the program by hitting the start
   button with the green arrow in the top toolbar.
   

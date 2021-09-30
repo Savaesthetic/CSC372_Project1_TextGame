@@ -1,12 +1,14 @@
 # CSC372_Project1_TextGame
 ### Disclaimers
+  As a heads up, it seems on some computers that the gui doesn't open in the correct size so you might have to resize the window 
+  to get access to the text input at the bottom.
+  
   I wanted to try to building a small game since game development is one of C#'s strong point but it might have been a little ambitious.
   To keep things simple I wanted to see if I could build this online text based game in C# 
   (http://play2.textadventures.co.uk/Play.aspx?id=7nwoee9ope2_hvfrx8kjvw), which is why they look pretty similar. Due to my unfamiliarity 
   with winforms and game development I was not able to build most elements of the ui such at the map and menus. It would have been a lot 
   simpler if I has just build it as a console application but here we are with some spaghetti code and a dream. The game itself is pretty 
-  barebones and is more of a demo really than a game but it took a surprising amount of work. As a heads up, it seems on some computers 
-  that the gui doesn't open in the correct size so you might have to resize the window to get access to the text input at the bottom.
+  barebones and is more of a demo really than a game but it took a surprising amount of work.
 
 ## Instructions for running the game (Assuming you are on Windows).
 ### Using the Executable:
